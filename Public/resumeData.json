@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name": "ANDREW GUNTER",
+    "occupation": "Quality Engineer @MistrasGroup",
+    "description": "United States Marine Full Stack Developer and Instructor Quality Manager at Mistras.",
+    "image": "Andy.jpg",
+    "bio": "A Marine highly demanded for exponential teamleadership, adaptable work ethics, evaluation skills, and the ability to solve problems.  • Transition with an honorable discharge to a universally recognized quality engineerprofession. • Professionally developed my attitude in extreme stress and pressure situations, with superior time management. • Military experiences enforced quality work ethics, conflict resolution, attention to detail and evaluating my surrounding areas for dynamic problems.  Key point: I adapt, fix problems that generate positive outcomes, tackle challenging task with zero hesitation, and sustain my professional attitude with respectable work ethics during challenging times",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "Andylgunter@gmail.com",
+    "phone": "+1 248 914 8714",
+    "address": {
+      "street": "Null",
+      "city": "Avon",
+      "state": "OH",
+      "zip": "44011"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [{
+        "name": "facebook",
+        "url": "https://www.facebook.com/andrew.gunter.54",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/team-ag/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Team-AG",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "A Marine highly demanded for exponential team-leadership adaptable work ethics, evaluation skills and the ability to solve problems",
+    "education": [{
+      "school": "University of Michigan - Ann Arbor",
+      "degree": "Bachelor's Degree, Industrial Engineer",
+      "graduated": "January 2017",
+      "description": "Graduated with Distinction"
+    }],
+    "work": [{
+        "company": "Mistras Group",
+        "title": "Quality Engineer",
+        "years": "May 2019 - Present",
+        "description": "TA part of the largest quality department performing audits written reports on NDT inspections using trial and error techniques. Highly valuable knowledge with aerospace composites and fiberglass. Work closely with top engineering teams from various companies such as Boeing, NASA, Space-X, and BAE Systems, in addition to providing work strategies for large scale Nadcap military projects to build and form a Specifications procedure"
+      },
+      {
+        "company": "Team Inc",
+        "title": "Quality Assurance Specialist",
+        "years": "Jan 2019 - Present",
+        "description": "Recognized regional lead quality specialist coordinator on top projects for US Steel Great Lakes Water Authority and Marathon Petroleum, conducting meetings, writing reports, and creating diagrams for different forms of NDE inspections as well as ISO metric drawings for weld mapping and weld method.."
+      }
+    ],
+    "skills": [{
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Neo PlayList Gen",
+        "category": "built with JavaScript NodeJS",
+        "image": "./images/Eon.jpg",
+        "url": "https://github.com/Team-AG/Project-2-Generate-Playlist-2.0"
+      },
+      {
+        "title": "ProJect-3",
+        "category": "built with ReactJS",
+        "image": "Project-3.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "I have had the pleasure of knowing Andrew Gunter for a year and a half now. We lived in the same community and met through mutual friends at an event hosted by our apartment. Although he moved out of state within a few months of meeting, we have continued to stay in touch. Andrew has always had a great positive attitude and loves to motivate and encourage people. I have seen him on multiple occasions help people in need. I believe Andrew to be a sincerely good and honest person. ",
+        "user": "Lorna Bird"
+      },
+      {
+        "text": "Andrew is the type of person I want working by my side. It is a great pleasure to recommend Andrew for a position within your organization.  Andrew would make a great addition to any team and succeed at any task you assign to him. ",
+        "user": "Nicholas E. Lile"
+      }
+    ]
+  }
+}
